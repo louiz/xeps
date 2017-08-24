@@ -55,7 +55,7 @@
   <p>This document addresses the following requirements:</p>
   <ol>
     <li>Make it possible for remote services or entities to manage user's roster by the same mechanisms that descibed in the &rfc6121;.</li>
-    <li>Provide a way for user to control which services have permission to manage their roster.</li>
+    <li>Provide a way for users to control which services have permission to manage their roster.</li>
   </ol>
 </section1>
 <section1 topic='Glossary' anchor='glossary'>
